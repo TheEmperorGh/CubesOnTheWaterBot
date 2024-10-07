@@ -4,9 +4,6 @@
 
 [![Static Badge](https://img.shields.io/badge/Telegram-Bot%20Link-Link?style=for-the-badge&logo=Telegram&logoColor=white&logoSize=auto&color=blue)](https://t.me/cubesonthewater_bot)
 
-<img src="https://github.com/TheEmperorGh/CubesOnTheWaterBot/assets/65369825/7b10981f-6496-4045-b2f7-75bdc78d19f7" width="695" height="425"/>
-
-<img src="https://github.com/TheEmperorGh/CubesOnTheWaterBot/assets/65369825/a3576803-e335-4e7d-bbc0-3d434e4e5c22" width="695" height="425"/>
 
 ## Recommendation before use
 
