@@ -127,7 +127,7 @@ class Tapper:
 
     async def join_to_pool(self, http_client: aiohttp.ClientSession, token: str):
         try:
-            async with http_client.post(url='https://server.questioncube.xyz/pools/542/join',
+            async with http_client.post(url='https://server.questioncube.xyz/pools/132063/join',
                                         json={'token': token}) as response:
                 response_text = await response.text()
         except Exception as error:
