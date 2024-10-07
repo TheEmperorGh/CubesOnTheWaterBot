@@ -1,12 +1,9 @@
-[![Static Badge](https://img.shields.io/badge/Telegram-Channel-Link?style=for-the-badge&logo=Telegram&logoColor=white&logoSize=auto&color=blue)](https://t.me/hidden_coding)
+[![Static Badge](https://img.shields.io/badge/Telegram-Channel-Link?style=for-the-badge&logo=Telegram&logoColor=white&logoSize=auto&color=blue)](https://t.me/cubesminingpool)
 
-[![Static Badge](https://img.shields.io/badge/Telegram-Chat-yes?style=for-the-badge&logo=Telegram&logoColor=white&logoSize=auto&color=blue)](https://t.me/hidden_codding_chat)
+[![Static Badge](https://img.shields.io/badge/Telegram-Chat-yes?style=for-the-badge&logo=Telegram&logoColor=white&logoSize=auto&color=blue)](https://t.me/cubesminingpool)
 
-[![Static Badge](https://img.shields.io/badge/Telegram-Bot%20Link-Link?style=for-the-badge&logo=Telegram&logoColor=white&logoSize=auto&color=blue)](https://t.me/cubesonthewater_bot?start=NzM3ODQ0NDY1)
+[![Static Badge](https://img.shields.io/badge/Telegram-Bot%20Link-Link?style=for-the-badge&logo=Telegram&logoColor=white&logoSize=auto&color=blue)](https://t.me/cubesonthewater_bot?)
 
-<img src="https://github.com/AlexKrutoy/CubesOnTheWater_Bot/assets/65369825/7b10981f-6496-4045-b2f7-75bdc78d19f7" width="695" height="425"/>
-
-<img src="https://github.com/AlexKrutoy/CubesOnTheWater_Bot/assets/65369825/a3576803-e335-4e7d-bbc0-3d434e4e5c22" width="695" height="425"/>
 
 ## Рекомендация перед использованием
 
@@ -25,7 +22,7 @@
 | Поддержка tdata / pyrogram .session / telethon .session         |       ✅        |
 
 
-## [Настройки](https://github.com/AlexKrutoy/CubesOnTheWater_Bot/blob/main/.env-example/)
+## [Настройки](https://github.com/TheEmperorGh/CubesOnTheWaterBot/blob/main/.env-example/)
 | Настройка                        |                                             Описание                                              |
 |----------------------------------|:-------------------------------------------------------------------------------------------------:|
 | **API_ID / API_HASH**            |              Данные платформы, с которой запускать сессию Telegram (сток - Android)               | 
@@ -47,7 +44,7 @@
 3. Запишите `API_ID` и `API_HASH` в файле `.env`, предоставленные после регистрации вашего приложения.
 
 ## Установка
-Вы можете скачать [**Репозиторий**](https://github.com/AlexKrutoy/CubesOnTheWater_Bot) клонированием на вашу систему и установкой необходимых зависимостей:
+Вы можете скачать [**Репозиторий**](https://github.com/TheEmperorGh/CubesOnTheWaterBot) клонированием на вашу систему и установкой необходимых зависимостей:
 ```shell
 git clone https://github.com/AlexKrutoy/CubesOnTheWater_Bot.git
 cd CubesOnTheWater_Bot
