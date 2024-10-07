@@ -1,12 +1,12 @@
-[![Static Badge](https://img.shields.io/badge/Telegram-Channel-Link?style=for-the-badge&logo=Telegram&logoColor=white&logoSize=auto&color=blue)](https://t.me/hidden_coding)
+[![Static Badge](https://img.shields.io/badge/Telegram-Channel-Link?style=for-the-badge&logo=Telegram&logoColor=white&logoSize=auto&color=blue)](https://t.me/cubesminingpool)
 
-[![Static Badge](https://img.shields.io/badge/Telegram-Chat-yes?style=for-the-badge&logo=Telegram&logoColor=white&logoSize=auto&color=blue)](https://t.me/hidden_codding_chat)
+[![Static Badge](https://img.shields.io/badge/Telegram-Chat-yes?style=for-the-badge&logo=Telegram&logoColor=white&logoSize=auto&color=blue)](https://t.me/cubesminingpool)
 
-[![Static Badge](https://img.shields.io/badge/Telegram-Bot%20Link-Link?style=for-the-badge&logo=Telegram&logoColor=white&logoSize=auto&color=blue)](https://t.me/cubesonthewater_bot?start=NzM3ODQ0NDY1)
+[![Static Badge](https://img.shields.io/badge/Telegram-Bot%20Link-Link?style=for-the-badge&logo=Telegram&logoColor=white&logoSize=auto&color=blue)](https://t.me/cubesonthewater_bot)
 
-<img src="https://github.com/AlexKrutoy/CubesOnTheWater_Bot/assets/65369825/7b10981f-6496-4045-b2f7-75bdc78d19f7" width="695" height="425"/>
+<img src="https://github.com/TheEmperorGh/CubesOnTheWaterBot/assets/65369825/7b10981f-6496-4045-b2f7-75bdc78d19f7" width="695" height="425"/>
 
-<img src="https://github.com/AlexKrutoy/CubesOnTheWater_Bot/assets/65369825/a3576803-e335-4e7d-bbc0-3d434e4e5c22" width="695" height="425"/>
+<img src="https://github.com/TheEmperorGh/CubesOnTheWaterBot/assets/65369825/a3576803-e335-4e7d-bbc0-3d434e4e5c22" width="695" height="425"/>
 
 ## Recommendation before use
 
@@ -25,7 +25,7 @@
 | Support for tdata / pyrogram .session / telethon .session |     ✅     |
 
 
-## [Settings](https://github.com/AlexKrutoy/CubesOnTheWater_Bot/blob/main/.env-example/)
+## [Settings](https://github.com/TheEmperorGh/CubesOnTheWaterBot/blob/main/.env-example/)
 | Settings                         |                                Description                                 |
 |----------------------------------|:--------------------------------------------------------------------------:|
 | **API_ID / API_HASH**            |  Platform data from which to run the Telegram session (default - android)  |
@@ -47,7 +47,7 @@ Before you begin, make sure you have the following installed:
 3. Record the API_ID and API_HASH provided after registering your application in the .env file.
 
 ## Installation
-You can download the [**repository**](https://github.com/AlexKrutoy/CubesOnTheWater_Bot) by cloning it to your system and installing the necessary dependencies:
+You can download the [**repository**](https://github.com/TheEmperorGh/CubesOnTheWaterBot) by cloning it to your system and installing the necessary dependencies:
 ```shell
 git clone https://github.com/AlexKrutoy/CubesOnTheWater_Bot.git
 cd CubesOnTheWater_Bot
