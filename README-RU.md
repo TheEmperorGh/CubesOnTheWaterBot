@@ -46,8 +46,8 @@
 ## Установка
 Вы можете скачать [**Репозиторий**](https://github.com/TheEmperorGh/CubesOnTheWaterBot) клонированием на вашу систему и установкой необходимых зависимостей:
 ```shell
-git clone https://github.com/AlexKrutoy/CubesOnTheWater_Bot.git
-cd CubesOnTheWater_Bot
+git clone https://github.com/TheEmperorGh/CubesOnTheWaterBot.git
+cd CubesOnTheWaterBot
 ```
 
 Затем для автоматической установки введите:
